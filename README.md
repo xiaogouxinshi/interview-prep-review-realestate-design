@@ -44,7 +44,7 @@
 直接把以下链接丢给任意 Agent，Agent 会自动下载并安装 skill：
 
 ```
-https://github.com/<你的用户名>/interview-prep-review-realestate-design
+https://github.com/xiaogouxinshi/interview-prep-review-realestate-design
 ```
 
 ### 方式二：手动安装
@@ -131,7 +131,7 @@ You have a vague sense it didn't go well, but can't pinpoint what went wrong. Ne
 Drop this URL to any Agent — it will auto-download and install:
 
 ```
-https://github.com/<your-username>/interview-prep-review-realestate-design
+https://github.com/xiaogouxinshi/interview-prep-review-realestate-design
 ```
 
 ### Option 2: Manual Install
